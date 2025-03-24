@@ -8,7 +8,7 @@
 
 3. Install an appropriate script backend following the guide below.
 
-4. Enjoy the functionality of Puerts!
+4. Enjoy the functionality of Puerts! ([Getting Started](./manual.md))
 
 Now that you have the Puerts files, it's time to select an appropriate script backend.
 
@@ -44,7 +44,7 @@ Now that you have the Puerts files, it's time to select an appropriate script ba
 
 2. Extract the downloaded `puerts` folder into your project `YourProject/Plugins/`.
 
-3. Enjoy the functionality of Puerts!
+3. Enjoy the functionality of Puerts! ([Getting Started](./manual.md))
 
 **Note: The releases page also includes packages for Unity. Unreal Engine versions will start with "Unreal_vx.x.x".**
 
