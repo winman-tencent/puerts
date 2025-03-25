@@ -1,3 +1,11 @@
+# Puerts - Unreal Engine Installation
+
+## Table Of Contents
+- [Source Code Installation Method](#source-code-installation-method)
+- [Release Package Installation Method](#release-package-installation-method)
+- [Development Environment Setup](#development-environment-setup)
+- [Notes](#notes)
+
 ## Source Code Installation Method
 
 1. Clone the repository:
@@ -48,8 +56,10 @@ Now that you have the Puerts files, it's time to select an appropriate script ba
 
 **Note: The releases page also includes packages for Unity. Unreal Engine versions will start with "Unreal_vx.x.x".**
 
-## Notes
+## Development Environment Setup
+Once puerts has been successfully installed, it's time to [setup a working TypeScript development environment](./dev_environment.md).
 
+## Notes
 1. **Mac Users:**
     If you encounter the "Move to Trash" issue, execute the following commands:
     ```sh
